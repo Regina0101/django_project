@@ -1,0 +1,1 @@
+Django project with user login and adding quotes Used databases : MongoDB, Postgres
